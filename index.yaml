@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  aws-ecr-secret-update:
+  - apiVersion: v2
+    created: "2024-06-24T17:20:59.419544825+05:30"
+    description: A Helm chart for updating AWS ECR secrets in Kubernetes
+    digest: 03ef058f5950167b555a02341490a203216baaf22183e63c06c62d7d605c45cc
+    name: aws-ecr-secret-update
+    urls:
+    - aws-ecr-secret-update-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-24T17:20:59.418778899+05:30"
