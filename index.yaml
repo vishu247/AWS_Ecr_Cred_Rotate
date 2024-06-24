@@ -1,12 +1,12 @@
 apiVersion: v1
 entries:
-  aws-ecr-secret-update:
+  renew-ecr-k8s-creds:
   - apiVersion: v2
-    created: "2024-06-24T17:20:59.419544825+05:30"
+    created: "2024-06-24T19:49:14.866984432+05:30"
     description: A Helm chart for updating AWS ECR secrets in Kubernetes
-    digest: 03ef058f5950167b555a02341490a203216baaf22183e63c06c62d7d605c45cc
-    name: aws-ecr-secret-update
+    digest: 0036f3510d045544a8b60cabc7c5451dd25671a52466cb6c9a0eb44ff193d917
+    name: renew-ecr-k8s-creds
     urls:
-    - aws-ecr-secret-update-0.1.0.tgz
+    - renew-ecr-k8s-creds-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-24T17:20:59.418778899+05:30"
+generated: "2024-06-24T19:49:14.86632057+05:30"

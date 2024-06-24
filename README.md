@@ -1,1 +1,0 @@
-# AWS_Ecr_Cred_Rotate
